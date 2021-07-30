@@ -1,2 +1,5 @@
 # Pandas_dio
- Desafio Dio
+Entrega de Projeto DIO
+Os notebooks estão organizados por categoria
+
+
